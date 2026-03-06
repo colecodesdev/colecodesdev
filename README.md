@@ -1,8 +1,10 @@
 # Colton Reilly
 
-Software engineer focused on building reliable cloud and web systems.
+Software Engineering graduate focused on building reliable cloud and web applications.
 
-I specialize in building and supporting production applications across multiple platforms, with experience in web development, cloud infrastructure, and technical troubleshooting.
+I have hands-on experience maintaining production web systems and developing full-stack applications using modern technologies including React, Java, Python, and AWS infrastructure.
+
+My work includes freelance development, production troubleshooting, and building cloud-based applications to strengthen my engineering foundation.
 
 ## Focus Areas
 
@@ -10,47 +12,39 @@ I specialize in building and supporting production applications across multiple 
 • Full Stack Web Development  
 • Production System Support  
 • Performance Optimization  
-• Client-Focused Technical Solutions
+• Client-Focused Technical Solutions  
 
 ## Tech Stack
 
-Languages:
-JavaScript • TypeScript • Java • Python • SQL
+Languages  
+JavaScript • TypeScript • Java • Python • SQL  
 
-Frameworks & Tools:
-React • Spring Boot • Node.js • Tailwind • REST APIs
+Frameworks & Tools  
+React • Spring Boot • Node.js • Tailwind • REST APIs  
 
-Cloud & Infrastructure:
-AWS (EC2, ECS, ECR, S3, IAM)
-Docker • Terraform • CI/CD
+Cloud & Infrastructure  
+AWS (EC2, ECS, ECR, S3, IAM)  
+Docker • Terraform • CI/CD  
 
-Databases:
-PostgreSQL • MySQL
+Databases  
+PostgreSQL • MySQL  
 
 ## Featured Projects
 
+### Code Challenge Generator
+AI-powered web application that generates programming challenges using a language model API.
+
+### CloudPulse
+Full-stack cloud application demonstrating containerized deployment and infrastructure-as-code using Docker, Terraform, and AWS.
+
+### Wild Olives Restaurant Website
+Production restaurant website built with React and Tailwind and deployed using AWS S3 and CloudFront.
+
 ### Portfolio Website
-https://colecodes.dev
+https://colecodes.dev  
+React + Tailwind portfolio site showcasing development projects.
 
-React + Tailwind portfolio site deployed via GitHub.
-
----
-
-### Restaurant Operations System (Case Study)
-
-System design project for restaurant operations including scheduling, inventory, and management tools.
-
----
-
-### LinkUp Solutions Platform
-
-https://linkupsolutions.us
-
-Bilingual WordPress multi-site platform with shared infrastructure.
-
----
-
-## Professional Experience
+## Professional Background
 
 I have several years of experience building and maintaining live client systems across multiple platforms.
 
@@ -59,17 +53,15 @@ My work includes:
 • Production website maintenance  
 • DNS and hosting configuration  
 • Performance troubleshooting  
-• Client technical consulting
-
----
+• Client technical consulting  
 
 ## Links
 
-Portfolio:
-https://colecodes.dev
+Portfolio  
+https://colecodes.dev  
 
-LinkedIn:
-https://linkedin.com/in/colecodes
+LinkedIn  
+https://linkedin.com/in/colecodes  
 
-Resume:
+Resume  
 https://coltonresume.com
