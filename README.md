@@ -34,9 +34,6 @@ PostgreSQL • MySQL
 ### Code Challenge Generator
 AI-powered web application that generates programming challenges using a language model API.
 
-### CloudPulse
-Full-stack cloud application demonstrating containerized deployment and infrastructure-as-code using Docker, Terraform, and AWS.
-
 ### Wild Olives Restaurant Website
 Production restaurant website built with React and Tailwind and deployed using AWS S3 and CloudFront.
 
