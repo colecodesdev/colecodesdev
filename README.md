@@ -1,64 +1,17 @@
 # Colton Reilly
 
-Software Engineering graduate focused on building reliable cloud and web applications.
+I am transitioning to building software full-time from 7 years in high-volume restaurant operations. My area of focus is addressing the pain points I experienced over years of working in restaurants and building software solutions for them.
 
-I have hands-on experience maintaining production web systems and developing full-stack applications using modern technologies including React, Java, Python, and AWS infrastructure.
-
-My work includes freelance development, production troubleshooting, and building cloud-based applications to strengthen my engineering foundation.
-
-## Focus Areas
-
-• Cloud Infrastructure (AWS, Docker, Terraform)  
-• Full Stack Web Development  
-• Production System Support  
-• Performance Optimization  
-• Client-Focused Technical Solutions  
+Currently, I am building Clover86: a vertical add-on for the Clover PoS system that pushes notifications to devices eliminating the "we ran out of that and nobody told me" issue.
 
 ## Tech Stack
 
-Languages  
-JavaScript • TypeScript • Java • Python • SQL  
+Languages: JavaScript • Python
 
-Frameworks & Tools  
-React • Spring Boot • Node.js • Tailwind • REST APIs  
+Frameworks & Tools: React • Node.js • Tailwind • FastAPI
 
-Cloud & Infrastructure  
-AWS (EC2, ECS, ECR, S3, IAM)  
-Docker • Terraform • CI/CD  
+Cloud & Infrastructure: AWS • CI/CD (Github Actions)
 
-Databases  
-PostgreSQL • MySQL  
+Databases: PostgreSQL • MySQL
 
-## Featured Projects
-
-### Code Challenge Generator
-AI-powered web application that generates programming challenges using a language model API.
-
-### Wild Olives Restaurant Website
-Production restaurant website built with React and Tailwind and deployed using AWS S3 and CloudFront.
-
-### Portfolio Website
-https://colecodes.dev  
-React + Tailwind portfolio site showcasing development projects.
-
-## Professional Background
-
-I have several years of experience building and maintaining live client systems across multiple platforms.
-
-My work includes:
-
-• Production website maintenance  
-• DNS and hosting configuration  
-• Performance troubleshooting  
-• Client technical consulting  
-
-## Links
-
-Portfolio  
-https://colecodes.dev  
-
-LinkedIn  
-https://linkedin.com/in/colecodes  
-
-Resume  
-https://coltonresume.com
+Portfolio: [colecodes.dev](https://www.colecodes.dev/)
