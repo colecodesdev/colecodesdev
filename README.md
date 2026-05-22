@@ -1,15 +1,11 @@
 # Colton Reilly
 
-I am transitioning to building software full-time from 7 years in high-volume restaurant operations. My area of focus is addressing the pain points I experienced over years of working in restaurants and building software solutions for them.
+I like building things for people that make them happy. After years in the hospitality industry I have learned that the concept of making people happy is simple, give them what they want. However, after only a few years building applications to solve business problems, I am now well aware that figuring out what they actually want is the hard part.
 
-## Tech Stack
+**Current project**: Full-stack platform to replace PushPress and Trainerize for a single gym: inventory, supplement and apparel sales, memberships and billing, training programs, and staff-client communication.
 
-Languages: JavaScript • Python
+**Up next**:
+* AI phone agent for a local restaurant that will accept reservations, answer menu-related questions, and provide restaurant business information
+* Direct online ordering tool that routes orders from a restaurant's website into their POS: bypasses third-party platforms, keeps commission revenue within the restaurant
 
-Frameworks & Tools: React • Node.js • Tailwind • FastAPI
-
-Cloud & Infrastructure: AWS • CI/CD (Github Actions)
-
-Databases: PostgreSQL • MySQL
-
-Portfolio: [colecodes.dev](https://www.colecodes.dev/)
+**Ultimate goal**: Automate and optimize restaurant technology to the point that me and all of my friends can retire one day and run our own boutique cafes without burning through our retirement savings from the insane labor and COG costs.
